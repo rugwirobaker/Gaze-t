@@ -1,0 +1,8 @@
+*.txt
+news/templates/
+news/static
+todo.txt
+*.html
+*.css
+*.jpeg
+test.py
