@@ -1,6 +1,6 @@
 from urllib import urlopen
 from general import*
-from Parser import*
+from parser import*
 from api import*
 from pattern import*
 
