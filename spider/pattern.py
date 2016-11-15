@@ -9,7 +9,6 @@ def match_domain(string):
         answer = False
     return answer
 
-
 def match_relative_url(string):
     pattern = pattern =  re.compile(r'^/section/.')
     if pattern.match(string):
